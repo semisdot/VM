@@ -1,0 +1,11 @@
+# Ignore all files starting with an extension
+.*
+
+# Unignore files starting with an extension:
+!.gitignore
+
+# Ignore directories:
+build/
+
+# Ignore executables:
+vm
