@@ -4,6 +4,10 @@
 # Unignore files starting with an extension:
 !.gitignore
 
+# Ignore files with extension:
+# *.o
+*.a
+
 # Ignore directories:
 build/
 
